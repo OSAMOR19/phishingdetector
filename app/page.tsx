@@ -12,7 +12,7 @@ export default function Home() {
           <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-primary to-primary-foreground bg-clip-text text-transparent">
             Phishing Link Detector
           </h1>
-          <p className="text-muted-foreground">Scan any URL to check if it&apos;s safe or potentially malicious</p>
+          <p className="text-muted-foreground">Scan any URL to check if it&apos;s safe for use or potentially malicious</p>
         </div>
         <Urlscanner />
       </div>
